@@ -1,7 +1,7 @@
-Synopsis
+## Synopsis
 Campaign-ui is a dashboard that used to provide UI for create and monitor the campaigns.
 
-Goals
+## Goals
 •	Simplify the promo campaign creation process
 •	Enabling merchant to join blibli campaign
 •	Monitor the promo campaign performance
